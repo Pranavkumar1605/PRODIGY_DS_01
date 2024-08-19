@@ -11,3 +11,16 @@ Python Programming: Improved skills in Python, especially in data manipulation a
 Error Handling: Gained experience in debugging code and solving issues related to data and libraries.
 
 Version Control: Used Git and GitHub for version control, keeping track of changes and managing the project.
+
+# Tools And Libraries Used
+
+Python
+     pandas for data manipulation
+
+     matplotlib for creating visualizations
+
+     seaborn for advanced data visualization
+
+Git for version control
+
+Google Colab for running and testing code
