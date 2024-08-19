@@ -15,11 +15,9 @@ Version Control: Used Git and GitHub for version control, keeping track of chang
 # Tools And Libraries Used
 
 Python
-     pandas for data manipulation
-
-     matplotlib for creating visualizations
-
-     seaborn for advanced data visualization
+      pandas for data manipulation
+      matplotlib for creating visualizations
+      seaborn for advanced data visualization
 
 Git for version control
 
