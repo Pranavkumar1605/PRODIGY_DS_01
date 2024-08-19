@@ -4,13 +4,13 @@ This repository contains the work I completed during my internship at Prodigy In
 # What I Learned
 Data Handling: Learned to work with CSV files, including loading, cleaning, and preprocessing data.
 
-#Data Visualization: Created a bar char to visualize data effectively.
+Data Visualization: Created a bar char to visualize data effectively.
 
-#Python Programming: Improved skills in Python, especially in data manipulation and visualization.
+Python Programming: Improved skills in Python, especially in data manipulation and visualization.
 
-#Error Handling: Gained experience in debugging code and solving issues related to data and libraries.
+Error Handling: Gained experience in debugging code and solving issues related to data and libraries.
 
-#Version Control: Used Git and GitHub for version control, keeping track of changes and managing the project.
+Version Control: Used Git and GitHub for version control, keeping track of changes and managing the project.
 
 # Tools And Libraries Used
 
